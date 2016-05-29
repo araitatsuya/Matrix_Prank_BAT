@@ -2,7 +2,7 @@
 0. In Windows.
 1. Download Matrix.bat and place the file in Desktop folder.
 2. Start -> Type cmd in "Search Programs and files" and enter.
-3. Type cd Desktop in the command window.
+3. In the command window; Type cd Desktop
 4. Type Matrix
 5. Press any key...
 
